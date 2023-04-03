@@ -1,0 +1,1 @@
+在项目或者main    运行  gofmt –w program.go
